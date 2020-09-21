@@ -6,5 +6,4 @@
 También puedes encontrarme en:
 * [Linkedin](https://www.linkedin.com/in/geekluis/)
 * [Instagram](https://www.instagram.com/geek_luis25/)
-
-<img src="./fine.gif">
+<p align="center"><img src="./fine.gif"></p>
